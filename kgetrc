@@ -1,0 +1,22 @@
+[Appearance]
+HeaderState=AAAA/wAAAAAAAAABAAAAAQAAABgAAAAAAAAAAAAAAAAAAAAAAAAABUYAAAAGAQEAAQAAAAAAAAAAAAAAAGQAAABQAAAAhAAAAAAAAAAGAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAADUgAAAAEAAAAAAAAD6AAAAABk
+
+[Internal]
+DropPosition=0,0
+FirstRun=false
+MainPosition=-1,17
+
+[MainWindow]
+Height 768=732
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKiAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAYAGsAZwBlAHQAXwB0AG8AbwBsAGIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1366=1366
+
+[Plugins]
+kget_bittorrent_pluginEnabled=true
+kget_checksumsearch_pluginEnabled=true
+kget_kio_pluginEnabled=true
+kget_metalink_pluginEnabled=true
+kget_mirrorsearch_pluginEnabled=true
+kget_mms_pluginEnabled=true
+kget_multisegkio_pluginEnabled=true
